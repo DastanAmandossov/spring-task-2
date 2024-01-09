@@ -1,0 +1,154 @@
+.body{
+    background-color:gainsboro;
+}
+.navbar{
+    background-color: #094574;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    padding-left: 180px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.search{
+    padding-left: 100px;
+    border-radius: 5px;
+}
+.search1{
+    background-color: darkblue; 
+    border-radius: 5px;
+}
+.menu{
+    padding-left: 180px;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    background-color: gainsboro;
+}
+.profile{
+    background-color: aliceblue;
+    width: 220px;
+    height: 330px;
+    
+    left: 350px;
+    bottom: 270px;
+    border-radius: 2%;
+}
+.ava{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 59px;
+    top: 19px;
+}
+.redaction{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gainsboro;
+    color: darkblue;
+    border-color: darkblue;
+    position: relative;
+    right: 150px;
+    top: 155px;
+    border-radius: 5px;
+}
+.friends{
+    background-color: aliceblue;
+    border-radius: 2%;
+    width: 220px;
+    height: 230px;
+    
+    left: 350px;
+    bottom: 250px;
+}
+.friends1{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.friendsphoto{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: space-around;
+}
+.friend img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+}
+.friend{
+    width: 100%;
+}
+.qwe{
+    display: flex ;
+    justify-content: space-around;
+}
+.asd{
+    color:darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.info{
+    margin-top: 20px;
+    width: 900px;  
+}
+.info1{
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    border-radius: 1%;
+    height: 450px;
+}
+.info2{
+   display: flex;
+   padding-left: 10px;
+}
+.myphoto{
+    
+    width: 900px;
+    height: 320px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    border-radius: 1%;
+}
+.wer{
+    width: 300px;
+}
+.ert{
+    width: 260px; 
+    padding-left: 50px; 
+    padding-top: 20px;
+}
+
+.tyu{
+    padding-right: 20px;
+    color: grey;
+}
+.sdf{
+    color: grey;
+}
+.dfg{
+    color: darkblue;
+}
+.myphototext{
+    color: darkblue;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.myphotonum{
+    color: darkblue;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.myphotophoto{
+
+}
+.content{
+    margin-top: 20px;
+    background-color: aliceblue;
+    border-radius: 1%;
+}
+

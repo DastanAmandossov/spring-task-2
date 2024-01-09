@@ -1,0 +1,68 @@
+.body{
+    background-color: gainsboro;
+}
+.navbar{
+    background-color: #094574;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    padding-left: 180px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.search{
+    margin-left: 100px;
+    border-radius: 5px;
+    background-color: darkblue;
+    width: 150px;
+}
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    background-color: gainsboro;
+    margin-top: 20px;
+    width: 250px;
+}
+.second{
+    width: 800px;
+    border-radius: 5px;
+    background-color: white;
+}
+.topmenu{
+    display: flex;
+}
+.three{
+    width: 300px;
+    height: 230px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.threeone{
+    background-color: white;
+    height: 250px;
+    border-radius: 5px;
+}
+.image2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.mbfriends{
+    background-color: white;
+    color: darkblue;
+    border-radius: 5px;
+}
+.name{
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.kol{
+    color: grey;
+}
+.dob{
+    color: grey;
+}
